@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logoToky.jpg" alt="Logo" width="80" height="80">
+    <img src="images/logoToky.jpg" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">Toky transport</h3>
