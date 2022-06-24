@@ -1,0 +1,177 @@
+
+.navbar-fixe{
+  position: fixed;
+  z-index: 30;
+}
+
+.carousel-caption h1{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.voyage{
+  width: 44%;
+  margin-left: 1%;
+  margin-right: 1%;
+  border-radius: 2%;
+  height: 400px;
+  margin-top: 50px;
+  background-color: #285A84;
+  display: flex;
+}
+
+.one{
+  margin-left: 2%;
+  width: 90%;
+  margin-top: 20px;
+}
+
+.two{
+  width: 10%;
+  margin-left: 2%;
+  margin-right: 5%;
+  margin-top: 20px;
+}
+
+.three{
+  width: 6%;
+  margin-left: 1%;
+  margin-right: 5%;
+  margin-top: 20px;
+}
+
+.voyage table{
+  color: #285A84;
+}
+
+.title{
+  margin-top: 20px;
+  margin-left: 1%;
+}
+
+.title h4{
+  color: #FFA495;
+}
+
+.table-fixed tbody {
+  height: 300px;
+  overflow-y: auto;
+  width: 100%;
+}
+
+.table-fixed thead,
+.table-fixed tbody,
+.table-fixed tr,
+.table-fixed td,
+.table-fixed th {
+  display: block;
+}
+
+.table-fixed tbody td,
+.table-fixed tbody th,
+.table-fixed thead > tr > th {
+  float: left;
+  position: relative;  
+}
+
+.big{
+  display: flex;
+  padding-bottom: 50px;
+  background-color: #285A84;
+}
+
+.cardVille{
+  display: flex;
+  margin-top: 20px;
+}
+
+.ville{
+  width: 21%;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 50px;
+}
+
+.logoForms{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+}
+
+.logo{
+  border: #FFA495 2px solid;
+  border-radius: 10%;
+  margin-left: 5%;
+  margin-right: 2%;
+  padding-right: 50%;
+  padding-left: 2%;
+  width: 43%;
+  height: 600px;
+}
+
+.formulaire{
+  margin-left: 2%;
+  margin-right: 5%;
+  width: 43%;
+  border: #FFA495 2px solid;
+  border-radius: 10%;
+  padding: 2%;
+}
+
+.between{
+  margin-top: 50px;
+  margin-bottom: 30px;
+  background: #FFA495;
+  background: -webkit-linear-gradient(to right, #FFA495, #74ebd5);
+  background: linear-gradient(to right, #FFA495, #74ebd5);
+  margin-left: 2%;
+  margin-right: 2%;
+  width: 50%;
+}
+
+.between h1{
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 80px;
+}
+
+.statsOne{
+  margin-top: 40px;
+  margin-left: 120px;
+  display: flex;
+}
+
+.statsOne h2{
+  margin-right: 20px;
+  color: #FFA495;
+}
+
+.statsOne button{
+  margin-right: 20px;
+}
+
+.bigtwo{
+  display: flex;
+  padding-bottom: 50px;
+  background-color: #285A84;
+  margin-bottom: 50px;
+}
+
+.footer{
+  display: flexbox;
+  width: 60%;
+  margin-left: 20%;
+}
+
+.footerOne{
+  width: 100%;
+  padding-left: 25%;
+}
+
+.footerTwo{
+  width: 100%;
+  padding-left: 27%;
+}
+
+.footerTwo h3{
+  color: #F96C85;
+}

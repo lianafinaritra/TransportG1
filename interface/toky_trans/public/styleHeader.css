@@ -1,0 +1,4 @@
+.navbar-fixe{
+    position: fixed;
+    z-index: 30;
+  }
